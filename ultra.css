@@ -6,7 +6,8 @@
 
 .ultra-card-subtle{
     background-color: #22212D!important;
-    box-shadow: #54ff76 0px 7px 29px 0px;
+    /* box-shadow: rgba(83,255,122,0.5) 10px 20px 20px -10px; */
+    box-shadow: rgba(83,255,122,0.5) 0px 7px 29px 0px;
 }
 
 .ultra-card-potrait{
