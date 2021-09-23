@@ -1,0 +1,25 @@
+.ultra-card{
+    background-image: linear-gradient(to bottom right, #3affdf, #54ff76);
+    /* box-shadow: black 0px 5px 15px; */
+    box-shadow: black 0px 20px 30px -10px;
+}
+
+.ultra-card-subtle{
+    background-color: #22212D!important;
+    box-shadow: #54ff76 0px 7px 29px 0px;
+}
+
+.ultra-card-potrait{
+    background-image: linear-gradient(to bottom right, #FFEC78, #FF81BE);
+    min-height: 25rem;
+    box-shadow: black 0px 20px 30px -10px;
+}
+
+
+body{
+    background-color: #282a37!important;
+}
+
+
+
+
